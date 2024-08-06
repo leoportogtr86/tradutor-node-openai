@@ -16,8 +16,8 @@ traduzir textos de um idioma para outro, utilizando os modelos de linguagem da O
 Clone este repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/tradutor-idiomas.git
-cd tradutor-idiomas
+git clone https://github.com/leoportogtr86/tradutor-node-openai
+cd tradutor-node-openai
 ```
 
 ### 2. Instalar Dependências
@@ -119,20 +119,3 @@ Você pode personalizar o projeto de acordo com suas necessidades:
 - Integrar com uma interface de usuário
 - Adicionar suporte a múltiplos idiomas
 - Melhorar o tratamento de erros
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato pelo
-e-mail [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
-
----
-
-Aproveite o projeto e boa codificação!
